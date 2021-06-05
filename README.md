@@ -1,4 +1,4 @@
-# Universal DoS/DDoS app
+# Universal DoS/DDoS App and Script
 A universal DoS/DDoS attack application written in c# <br>
 Simple opensource script. Only the backend.
 <h2>For Usage:</h2>
