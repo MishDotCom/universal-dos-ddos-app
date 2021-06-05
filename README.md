@@ -1,5 +1,5 @@
 # Universal DoS/DDoS app
-A universal DoS/DDoS attack application. <br>
+A universal DoS/DDoS attack application written in c# <br>
 Simple opensource script. Only the backend.
 <h2>For Usage:</h2>
 1. Type <code>--help</code> to view all commands. <br>
