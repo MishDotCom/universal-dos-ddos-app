@@ -10,4 +10,4 @@ Simple opensource script. Only the backend.
 1. I am under no circumstances responible for any bad way my script or my app was used! <br>
 2. DDos and DoS are illegal in most countries. Stay legal! <br>
 3. If this app is used against a website or a server and the owner invests money to search and fix the problem, it becomes a felony and you can be charged with 10 yrs behind bars. <br>
-4. If you dont't have fun while using this app than fuck off! :))
+4. If you dont't have fun while using this app then fuck off! :))
