@@ -3,7 +3,7 @@ A universal DoS/DDoS attack application written in c# <br>
 Simple opensource script. Only the backend.
 <h2>Installation:</h2>
 1. Download the zip folder named <code>uddos win-x86.zip</code>. <br>
-2. Extract the folder into a secure location where it won't bother you. <br>
+2. Extract the folder into a secure location where it won't bother you (ex: C:\Users\{usrname}\). <br>
 3. Do NOT delete or move any of the files from the extracted folder !<br>
 4. Create a shortcut for <code>uddos.exe</code> into the folder or somewhere accessible (ex: Desktop). <br>
 5. Run the app from the shortcut. <br>
