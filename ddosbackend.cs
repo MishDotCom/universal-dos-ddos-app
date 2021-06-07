@@ -1,6 +1,6 @@
 /*
 -----------------------------------------------------------------------------------------
-Copyright 2021 of MishDotCom [@github]
+Copyright © 2021 MishDotCOm. All rights reserved.
 Only BACKEND of application!
 No ddos.exe shell data included!
 Developer not held accountable for any misuse!
